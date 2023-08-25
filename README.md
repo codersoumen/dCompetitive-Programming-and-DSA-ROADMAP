@@ -1,14 +1,14 @@
 # dCompetitive-Programming-and-DSA-ROADMAP
 <img  src="https://cdn.dribbble.com/users/2136630/screenshots/4238623/dsa_logo.jpg" width="100%">
 
-1. [Introduction to Git](https://www.youtube.com/watch?v=apGV9Kg7ics)
+1. Introduction to Git
 2. Introduction to Programming
 - Types of languages
 - Flowcharts & Pseudocode
 - Flow of the program
 - Time & Space Complexity
 
-3. [Basics of Java](https://www.javatpoint.com/java-tutorial)
+3. Basics of Java
 - Array
     - Introduction
     - Memory management
@@ -187,7 +187,7 @@
 ### What basic data structures and algorithms should one learn before starting competitive programming?
 
 1. Basic data sturctures (arrays, queues, linked lists, etc.).
-2. [Bit manipulation.](https://www.youtube.com/watch?v=5rtVTYAk9KQ&t)
+2. Bit manipulation.
 3. Advanced data structures:
 - Union-Find Disjoint Sets.
 - Segment Tree.
